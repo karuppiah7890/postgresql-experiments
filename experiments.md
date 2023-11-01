@@ -24,3 +24,4 @@
         - Major version of Primary < Major version of Standby
         - Major version of Primary > Major version of Standby
     
+- Start a server in standby mode using `standby.signal` file in the data directory
